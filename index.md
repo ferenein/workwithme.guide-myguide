@@ -33,7 +33,7 @@ I prefer recieving feedbacks in private and sooner rather than later. Would appr
 I usually start working around 9 am. I will be out to run few times a week in the late afternoon. I like to run before the sun sets so in winter this can be as early as 4 pm, in which case I will come back and continue working after dinner. In the summer, I'll probably be out to run around 6.
 
 How do your energy levels fluctuate throughout the day?
-- There may be some nights when I have trouble sleeping. On such days I may need to take a nap for better efficiency. I tried drinking multiple cups of strong coffee but it was ineffective even though I normally do not consume any coffee at all!
+- There may be some nights when I have trouble sleeping. On days after such nights I may need to reset myself with a quick nap for increase productivity. I tried drinking multiple cups of strong coffee but it was ineffective even though I normally do not consume any coffee at all!
 
 ## Communication Preferences
 
@@ -59,7 +59,7 @@ Any habits that of yours that can be easily misinterpreted? Here's a good place 
 
 - Sometimes I will frown when thinking hard or focusing to read. This causes wrinkles between my eyes that sometimes people mistake for me being upset. 
 - Sometimes I will try to avoid small talk. It's not that I am trying to avoid you. I am probably just low on energy (possibly from too much small talk already for the day).
-- I am curious and detail oriented and may ask a lot of questions for complete understanding. Do let me know if this becomes bothersome.
+- I am curious and detail oriented and may ask a lot of questions for complete understanding. I'm not trying to make your life hard.
 
 ## Pet Peeves
 
@@ -79,7 +79,7 @@ future self to obsess over.
 ## Areas for Development
 
 - Faster context switching
-- 80/20. Sometimes doing 20% of the work will cover 80% of the cases and to cover rest of the 20% cases will require 80% of the work. I'd like to get better at recognizing such scenarios.
+- 80/20. Sometimes doing 20% of the work will cover 80% of the cases and to cover rest of the 20% cases will require 80% of the work. I'd like to get better at recognizing such scenarios to be more efficient.
 
 ## Ask Me About
 
