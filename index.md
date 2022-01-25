@@ -1,8 +1,8 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Young Ka
+full_name: Young Ka
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/abloomston/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
@@ -23,73 +23,79 @@ _You might want to [estimate the reading time](http://niram.org/read/) of your d
 
 What do you value most in the world, in people, and/or in yourself? You might find it helpful to
 spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+- In world: freedom
+- In people: virtue - do to others what you would have them do to you
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+According to the [16 personality types](https://www.16personalities.com/personality-types) I am either ISTP (explorer) or INTP (logician)
+- Honest: I don't like lying. It only complicates things. Almost always.
+- Quite: I'm normally pretty quite but can be talktive sometimes.
+- Focused: I can be hyper focused at times and may not notice notifications.
+- I dislike conflict/competition and try to avoid unnecessary ones. I try to have fun while working.
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
-
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+I prefer recieving feedbacks in private and sooner rather than later. Would appreciate it if the negative ones are structured as improvements. 
 
 ## Work Patterns
 
-What hours do you usually work?
+I usually start working around 9 am. I will be out to run few times a week in the late afternoon. I like to run before the sun sets so in winter this can be as early as 4 pm, in which case I will come back and continue working after dinner. In the summer, I'll probably be out to run around 6.
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+How do your energy levels fluctuate throughout the day?
+- There may be some nights when I have trouble sleeping. On such days I may need to take a nap for better efficiency. I tried drinking multiple cups of strong coffee but it was ineffective even though I normally do not consume any coffee at all!
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+Slack is probably the best. There's a chance that I will miss the notification if I am focused (especially on the other monitor).
 
-
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
 When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
+- If I'm frustrated or worried, I might be frowning (but I also frown when I'm focused so this may be a confusing indicator). I might also get defensive.
 What about when you're just not having an "on" or "good" day?
+- I might become awkward and less talktive.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+- Unless I'm super disturbed if I focus on work I should return to normal. If I'm super disturbed I need to fix the problem bothering me first.
 
 ## Me Being Me
 
 Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+
+- Sometimes I will frown when thinking hard or focusing to read. This causes wrinkles between my eyes that sometimes people mistake for me being upset. 
+- Sometimes I will try to avoid small talk. It's not that I am trying to avoid you. I am probably just low on energy (possibly from too much small talk already for the day).
+- I am curious and detail oriented and may ask a lot of questions for complete understanding. Do let me know if this becomes bothersome.
 
 ## Pet Peeves
 
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+- I don't like it when someone gives ambiguous/wrong information instead of admitting that they are not sure. This will confuse me very much as I will be trusting the information that I am being told.
+- Having to jump between multiple tasks/tickets. This will make me less efficient as it can take long time for me to focus/context switch.
 
 ## Career Goals & Future Interests
 
 What long term career goals do you have for yourself? What interests do you hope or plan for your
 future self to obsess over.
+- Continuous learning
+- Meaningful contributions that improve people's lives
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+- Faster context switching
+- 80/20. Sometimes doing 20% of the work will cover 80% of the cases and to cover rest of the 20% cases will require 80% of the work. I'd like to get better at recognizing such scenarios.
 
 ## Ask Me About
 
 Let's get to know one another! Here's a great place to list things you've done / activities you love
 / conversations you're (almost) always excited to have!
+- Travel
+- Food
+- Pingpong
+- Snowboarding/Surfing/Skateboarding (I'm not good but find these challenging and fun)
